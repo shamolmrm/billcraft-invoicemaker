@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987939363713",
+    "project_id": "billcraft-invoicemaker",
+    "storage_bucket": "billcraft-invoicemaker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987939363713:android:4c80c6ccb6e8b09f1c2680",
+        "android_client_info": {
+          "package_name": "com.billcraft.billcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987939363713-1g874gq1ijo446p5tt4krbanabuuqmml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billcraft.billcraft",
+            "certificate_hash": "19e98a8ee9034c8bf2389be9a5cf7b412e6165e8"
+          }
+        },
+        {
+          "client_id": "987939363713-0qjndhve5pvlup781c6vi59r99ose9a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSOt6-kdC8wCTgnP2k4mtRTnWweyK9is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987939363713-0qjndhve5pvlup781c6vi59r99ose9a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
